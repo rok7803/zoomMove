@@ -1,0 +1,4 @@
+{
+    "php.validate.executablePath": "",
+    "intelephense.environment.documentRoot": "${workspaceFolder}"
+}
